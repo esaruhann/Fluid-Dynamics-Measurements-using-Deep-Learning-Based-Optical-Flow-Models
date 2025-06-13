@@ -4,7 +4,7 @@ This repository contains datasets and pre-trained models used in the study **"Fl
 
 ## 📁 Repository Structure
 
-├── dataset/
+├── **dataset/**
 
 │ ├── synthetic_translational/ # Synthetic plug flow (10 samples)
 
@@ -21,7 +21,7 @@ This repository contains datasets and pre-trained models used in the study **"Fl
  └── RAFT_trained_data/DNS_turbulance/ # Turbulance dataset for RAFT training (2000 samples)
  
 
-├── models/
+├── **models/**
 
 │ ├── DOF/ # Pre-processing code or configs for Dense Optical Flow
 
