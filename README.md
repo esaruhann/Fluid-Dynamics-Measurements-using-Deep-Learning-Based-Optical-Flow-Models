@@ -22,10 +22,15 @@ This repository contains datasets and pre-trained models used in the study **"Fl
  
 
 ├── models/
+
 │ ├── DOF/ # Pre-processing code or configs for Dense Optical Flow
+
 │ ├── SPYNET/ # Pre-trained weights or scripts
+
 │ ├── RAFT/ # Vanilla RAFT model
+
 │ └── Fine_tune_RAFT/ # Domain-adapted RAFT model fine-tuned on synthetic flow
+
 
 ## 📊 Datasets
 
