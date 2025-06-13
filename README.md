@@ -6,30 +6,30 @@ This repository contains datasets and pre-trained models used in the study **"Fl
 
 ├── **dataset/**
 
-│ ├── synthetic_translational/ # Synthetic plug flow (10 samples)
+│ ├── synthetic_translational - *Synthetic plug flow (10 samples)*
 
-│ ├── synthetic_rotational/ # Synthetic vortex flow (10 samples)
+│ ├── synthetic_rotational - *Synthetic vortex flow (10 samples)*
 
-│ ├── jet_plug_flow_re_1100/ # Experimental jet flow, Re=1100 (200 frames)
+│ ├── jet_plug_flow_re_1100 - *Experimental jet flow, Re=1100 (200 frames)*
 
-│ ├── jet_plug_flow_re_2200/ # Experimental jet flow, Re=2200 (200 frames)
+│ ├── jet_plug_flow_re_2200 - *Experimental jet flow, Re=2200 (200 frames)*
 
-│ ├── PIV_challanges/Ball/ # Benchmark PIV dataset (e.g., Case B)
+│ ├── PIV_challanges/Ball - *Benchmark PIV dataset (e.g., Case B)*
 
-│ └── RAFT_trained_data/uniform/ # Synthetic uniform dataset for RAFT training (3000 samples)
+│ └── RAFT_trained_data/uniform - *Synthetic uniform dataset for RAFT training (3000 samples)*
 
- └── RAFT_trained_data/DNS_turbulance/ # Turbulance dataset for RAFT training (2000 samples)
+ └── RAFT_trained_data/DNS_turbulance - *Turbulance dataset for RAFT training (2000 samples)*
  
 
 ├── **models/**
 
-│ ├── DOF/ # Pre-processing code or configs for Dense Optical Flow
+│ ├── DOF - *Pre-processing code or configs for Dense Optical Flow*
 
-│ ├── SPYNET/ # Pre-trained weights or scripts
+│ ├── SPYNET - *Pre-trained weights or scripts*
 
-│ ├── RAFT/ # Vanilla RAFT model
+│ ├── RAFT - *Vanilla RAFT model*
 
-│ └── Fine_tune_RAFT/ # Domain-adapted RAFT model fine-tuned on synthetic flow
+│ └── Fine_tune_RAFT - *Domain-adapted RAFT model fine-tuned on synthetic flow*
 
 
 ## 📊 Datasets
