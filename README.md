@@ -38,7 +38,7 @@ This repository contains datasets and pre-trained models used in the study **"Fl
 |------------------- |---------------------------------------|-------------|
 | Synthetic Flow     | Plug (translational) and vortex flow  | 10 each     |
 | Jet Flow (PIV)     | Real experimental data (Re=1100/2200) | 200 each    |
-| PIV Challenge      | Benchmark case (e.g., "Ball")         | Varies      |
+| PIV Challenge      | Benchmark case (e.g., "Ball")         | 100         |
 | RAFT Training Data | Synthetic uniform translation         | ~3000       |
 | RAFT Training Data | DNS turbulance translation            | ~2000       |
 > 🧪 All datasets are either synthetically generated using MATLAB or obtained from high-resolution jet flow PIV experiments.
